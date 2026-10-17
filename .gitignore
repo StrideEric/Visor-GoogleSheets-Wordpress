@@ -1,0 +1,14 @@
+# Archivos del sistema operativo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Archivos de editores y entornos
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.log
+
+*.zip
